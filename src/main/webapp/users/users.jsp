@@ -19,7 +19,7 @@
 				
 				<div class="mb-3">
 					<a class="bi bi-house"
-			           href="${pageContext.request.contextPath}/">Home</a>
+			           href="${pageContext.request.contextPath}/"> Home</a>
 				</div>
 				
 				<table class="table table-striped table-hover">
